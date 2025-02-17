@@ -11,5 +11,6 @@
 - Actividad 2 "Realizar el cuestionario VARK" : https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act2_VarkScreenshot.jpeg
 - Actividad 3 "Python for Data Science IBM" : https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act3_PythonforDataScienceIBM.pdf
 - Actividad 6 "Determinantes de Matrices" : https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act6_DeterminantesDeMatrices.pdf
+- Actividad 7 "Laboratorio de Probabilidad y Estadistica" : https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act7_LabProbabilidadEstadistica.pdf
 ##### Marzo:
 ##### Abril - Mayo:
