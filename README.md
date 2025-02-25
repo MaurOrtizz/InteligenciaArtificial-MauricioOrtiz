@@ -6,6 +6,7 @@
 - [Certificado 3 "Intro to Machine Learning"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Intro%20to%20Machine%20Learning.pdf)
 - [Certificado 4 "Pandas"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Pandas.pdf)
 - [Certificado 5 "Intermediate Machine Learning"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Intermediate%20Machine%20Learning.png)
+- [Certificado 6 "Data Visualization"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Data%20Visualization.png)
 ### Actividades:
 ##### Enero - Febrero:
 - [Actividad 1 "Crear una cuenta en Kaggle"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act1_CuentaKaggle.pdf)
