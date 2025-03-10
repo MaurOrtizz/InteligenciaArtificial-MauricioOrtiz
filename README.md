@@ -9,6 +9,7 @@
 - [Certificado 6 "Data Visualization"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Data%20Visualization.png)
 - [Certificado 7 "Feature Engineering"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Feature%20Engineering.png)
 - [Certificado 8 "Intro to SQL"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Intro%20to%20SQL.png)
+- [Certificado 9 "Advanced SQL"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Kaggle_Certificados/Mauricio%20Ortiz%20-%20Advanced%20SQL.png)
 ### Actividades:
 ##### Enero - Febrero:
 - [Actividad 1 "Crear una cuenta en Kaggle"](https://github.com/MaurOrtizz/InteligenciaArtificial-MauricioOrtiz/blob/main/Acts_EneroFebrero/Act1_CuentaKaggle.pdf)
